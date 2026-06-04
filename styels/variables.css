@@ -1,3 +1,8 @@
 :root {
-    
+    --co-white: #fff;
+    --co-green: #03815d;
+    --co-dark-green: #245852;
+    --co-black: #292929;
 }
+
+/* breakpoints 992px 768px 576px 480px*/
