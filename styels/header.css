@@ -6,8 +6,6 @@
     align-items: center;
 }
 
-.header__nav {}
-
 .header__nav-list {
     display: flex;
     justify-content: center;
@@ -15,8 +13,6 @@
     column-gap: 70px;
     column-gap: min(70px, 4vw);
 }
-
-.header__nav-item {}
 
 .header__nav-link {
     font-size: 20px;
@@ -30,6 +26,7 @@
     justify-content: space-between;
     align-items: center;
     flex-wrap: nowrap;
+    column-gap: 10px;
 }
 
 .header__nav-link:hover {
