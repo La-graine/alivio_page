@@ -1,0 +1,30 @@
+.about {
+    padding: 160px 0 60px 0;
+    background-color: var(--co-white);
+}
+
+.about__subtitle {
+    font-size: 24px;
+    font-weight: 800;
+    color: var(--co-light-black);
+}
+
+.about__content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.about__title {
+    color: var(--co-light-green);
+    font-size: 50px;
+    font-weight: 700;
+    max-width: 500px;
+}
+
+.about__desc {
+    color: var(--co-light-black);
+    font-size: 20px;
+    font-weight: 500;
+    max-width: 671px;
+}
