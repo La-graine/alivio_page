@@ -22,10 +22,6 @@
     max-width: 500px;
 }
 
-.about__title::before {
-
-}
-
 .about__desc {
     color: var(--co-light-black);
     font-size: 20px;
