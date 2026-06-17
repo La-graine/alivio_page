@@ -48,8 +48,19 @@
 }
 
 @media (max-width: 768px) {
+    .header__wrapper {
+    padding: 0 0 0 45px;
+}
+
     .header__nav {
         display: none;
+    }
+}
+
+@media (max-width: 390px) {
+    .btn {
+        width: 85px;
+        font-size: 14px;
     }
 }
 
